@@ -13,7 +13,7 @@ do curso Versionamente de Código com Git e Github da
 
 |Aulas | Resumos |
 |------|---------|
-|Gravando alterções no Repositorio Local|[Resumos]
+|Gravando alterções no Repositorio Local|[Resumo]
 () |
 
 
